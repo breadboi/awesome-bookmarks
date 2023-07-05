@@ -72,13 +72,3 @@ Contributions to this repository are welcome! If you have a useful browser bookm
 5. Commit your changes (`git commit -am 'Add new bookmark'`).
 6. Push to the branch (`git push origin new-bookmark`).
 7. Create a new pull request.
-
-Please ensure your contribution adheres to the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code in this repository for personal and commercial purposes. However, please make sure to include the original license file and attribute the authors appropriately.
-
-If you have any questions, suggestions, or issues, please feel free to open an issue or contact the repository maintainer.
-
-Happy browsing with these powerful browser bookmarks!
